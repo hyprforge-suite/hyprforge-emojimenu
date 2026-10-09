@@ -21,6 +21,8 @@ native Hyprland desktop applications. It appears there as a
 submodule at `crates/hyprforge-emojimenu`; this repository is where its code
 lives, and pull requests here are welcome.
 
+![The emoji picker: search, Emoji, Kaomoji and Symbols tabs, frequently used emoji and a skin-tone button](https://raw.githubusercontent.com/hyprforge-suite/hyprforge/main/docs/images/emoji.png)
+
 ## The one hard part
 
 Pasting. `connection.flush()` puts the synthesised key events on the
