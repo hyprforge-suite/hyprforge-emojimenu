@@ -1,6 +1,6 @@
 [package]
 name = "hyprforge-emojimenu"
-version = "0.1.11"
+version = "0.1.12"
 edition = "2021"
 license = "MIT"
 description = "An emoji picker for Hyprland: a layer-shell popup at the pointer with type-to-filter search over the full Unicode set, frequently used first, skin tones and a remembered default tone, plus kaomoji and symbols."
